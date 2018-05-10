@@ -11,6 +11,8 @@
         android:layout_height="wrap_content"
         android:onClick="click"
         android:text="clickme!"
+        android:textColor="@drawable/ic_launcher_background"
+        android:textSize="23sp"
 
       />
 
