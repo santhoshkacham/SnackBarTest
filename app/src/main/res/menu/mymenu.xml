@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Android"
+        android:id="@+id/and"
+        />
+    <item android:title="IOS" />
+    <item android:title="JAVA" />
+    <item android:title="Python" />
+    <item android:title="Node" />
+    <item android:title="Angular" />
+
+
+
+
+</menu>
